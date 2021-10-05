@@ -1,0 +1,1 @@
+# API-MongoDB-Mediator-Pattern
